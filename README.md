@@ -1,4 +1,4 @@
-# Juniper-MPLS-DayOne-Lab
+# Juniper MPLS DayOne Lab - EVE-NG
 
 A set of example configs for Juniper Day One MPLS
 
